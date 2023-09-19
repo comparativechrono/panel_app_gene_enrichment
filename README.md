@@ -43,3 +43,8 @@ This script provides a foundation for genetic enrichment analysis and can be ext
 ## Contact
 
 For any further questions, please open an issue on GitHub. 
+
+## Disclaimer
+
+This tool is independently developed and is not endorsed, sponsored, or affiliated with Genomics England or its PanelApp. The information and data used are sourced from the Genomics England PanelApp, which can be accessed directly at https://panelapp.genomicsengland.co.uk/. This tool is intended for research purposes only and not for clinical or diagnostic use. Please refer to the original PanelApp for any official use or reference.
+
